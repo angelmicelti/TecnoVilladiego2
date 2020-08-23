@@ -1,9 +1,9 @@
 <h1 align="center"> MATERIALES DE USO TÉCNICO </h1>
 
 <h2 align="center">
-[MADERA](/3Materiales/Madera/readme.md)
+[MADERA](/Madera/readme.md)
 
-[METALES](/3Materiales/Metales/readme.md)
+[METALES](/Metales/readme.md)
 
 </h2>
 
