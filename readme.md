@@ -25,7 +25,7 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Scratch](http://scratch.mit.edu)
+[Scratch](/Scratch/readme.md)
 
 </h3>
 
