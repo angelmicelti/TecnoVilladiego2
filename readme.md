@@ -18,7 +18,7 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
- [ESTRUCTURAS:](4EstruMeca/Estructuras/readme.md)  
+ [ESTRUCTURAS](4EstruMeca/Estructuras/readme.md)  
 
  
  [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
