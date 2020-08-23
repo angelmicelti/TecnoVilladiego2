@@ -34,7 +34,7 @@ de Peñaflor, Sevilla
 
 <h3 align="center">
 
-[Publicando información en Internet](/6TIC/internet.md)
+[Publicando información en Internet](/6TIC/readme.md)
 
 </h3>
 
