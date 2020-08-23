@@ -1,5 +1,5 @@
 <h1 align="center"> EXPRESIÓN Y COMUNICACIÓN TÉCNICAS </h1>
 
-[QCAD](QCAD/readme.md)
+# Instrumentos de dibujo  
 
-[Sketchup](Sketchup/readme.md)
+# Construcciones geométricas
