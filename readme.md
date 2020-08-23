@@ -16,8 +16,9 @@ de Peñaflor, Sevilla
 
 ## [Bloque 4: Estructuras y mecanismos: máquinas y sistemas](4EstruMeca/readme.md)
 
-<h3 align="center"> [ESTRUCTURAS:](4EstruMeca/Estructuras/readme.md)
+<h3 align="center">
 
+ [ESTRUCTURAS:](4EstruMeca/Estructuras/readme.md)
  [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
 </h3>
 
