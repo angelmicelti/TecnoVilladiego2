@@ -1,9 +1,10 @@
 <h1 align="center"> MATERIALES DE USO TÉCNICO </h1>
 
 <h2 align="center">
-PLÁSTICOS
+[MADERA](/3Materiales/Madera/readme.md)
 
-[MATERIALES DE CONSTRUCCIÓN](Construcción/readme.md)
+[METALES](/3Materiales/Metales/readme.md)
 
-NUEVOS MATERIALES
 </h2>
+
+[Volver a inicio](https://github.com/angelmicelti/TecnoVilladiego2)
