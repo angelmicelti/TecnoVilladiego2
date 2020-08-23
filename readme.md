@@ -21,17 +21,9 @@ de Peñaflor, Sevilla
 ### [ELECTRICIDAD](4EstruMeca/Electricidad/readme.md)
 
 
-<h3 align="center">
-
-[Prácticas de electricidad con Crocodile Technology](/4EstruMeca/Electricidad/practicas.md)
-
-</h3>
-
 ## Bloque 5: Iniciación a la programación y sistemas de control
 
 <h3 align="center">
-
-[Arduinoblocks](/5ProgSisCont/ArduinoBlocks/readme.md)
 
 [Scratch](http://scratch.mit.edu)
 
