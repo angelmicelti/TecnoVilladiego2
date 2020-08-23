@@ -1,4 +1,4 @@
-<h1 align="center">TecnoVilladiego3</h1>
+<h1 align="center">TecnoVilladiego2</h1>
 
 <h3 align="center"> Repositorio para el alumnado de Tecnología o Ámbito Práctico de 2º de E.S.O.
 
