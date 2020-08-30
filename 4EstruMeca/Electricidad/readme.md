@@ -5,7 +5,8 @@
 
 Una forma de iniciar al alumnado en el montaje de circuitos eléctricos/electrónicos es utilizar las clemas que emplean habitualmente los electricistas.  
 
-En ellas el montaje es sencillo, aunque requiere de un cierto aprendizaje que conviene realizar con circuitos sencillos, hasta que el alumnado coja soltura.
+Pulsa en [este enlace](circuclemas.md) para ver.
+
 
 # Software de electricidad
 [Descarga Crocodile Clips 3.5](https://github.com/angelmicelti/TecnoVilladiego2/raw/master/4EstruMeca/Electricidad/Crocodile-Clips.zip)  
