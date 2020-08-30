@@ -6,7 +6,7 @@ Dejo por aquí algún ejemplo:
 
 ## Circuito serie en clema
 
-![Circuito serie](Circuito1.png "Circuito elemental") 
+![Circuito serie](Circuito1.png "Circuito serie") 
 
 ### Montaje en clema:
 ![Circuito serie en clema](Circuito1Clema.jpg "Circuito serie en clema") 
