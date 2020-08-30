@@ -4,12 +4,12 @@ En una clema el montaje es sencillo, aunque requiere de un cierto aprendizaje qu
 
 Dejo por aquí algún ejemplo:  
 
-## Circuito elemental en clema
+## Circuito serie en clema
 
 ![Circuito serie](Circuito1.png "Circuito elemental") 
 
 ### Montaje en clema:
-![Circuito serie en clema](Circuito1Clema.jpg "Circuito elemental en clema") 
+![Circuito serie en clema](Circuito1Clema.jpg "Circuito serie en clema") 
 
 ## Circuito paralelo en clema
 
