@@ -9,11 +9,11 @@ Dejo por aquí algún ejemplo:
 ![Circuito serie](Circuito1.png) 
 
 ### Montaje en clema:
-![Circuito serie en clema](Circuito1Clema.png) 
+![Circuito serie en clema](Circuito1Clema.jpg) 
 
 ## Circuito paralelo en clema
 
 ![Circuito paralelo](Circuito2.png) 
 
 ### Montaje en clema:
-![Circuito paralelo men clema](Circuito2Clema.png) 
+![Circuito paralelo men clema](Circuito2Clema.jpg) 
